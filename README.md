@@ -1,4 +1,4 @@
 # programs
 This is my first git repository.
 <br>
- Author - Subham kushwaha
+ Author - Subham (rewa).
